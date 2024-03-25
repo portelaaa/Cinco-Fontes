@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kaushan+Script&family=Lobster&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=VT323&family=Yatra+One&display=swap');
+
+body {
+    text-align: center;
+    background-color: black;
+}
+
+.titulo {
+
+    font-family: "Yatra One", system-ui;
+    color: darkblue;
+}
+
+.fonte1 {
+    font-family: "VT323", monospace;
+    color: blueviolet;
+}
+
+.texto1 {
+    font-family: "VT323", monospace;
+    color: blueviolet;
+}
+
+.fonte2 {
+    font-family: "Dancing Script", cursive;
+    color: darkred;
+}
+
+.texto2 {
+    font-family: "Dancing Script", cursive;
+    color: darkred;
+}
+
+.fonte3 {
+    font-family: "Kaushan Script", cursive;
+    color: mediumvioletred;
+}
+
+.texto3 {
+    font-family: "Kaushan Script", cursive;
+    color: mediumvioletred;
+}
+
+.fonte4 {
+    font-family: "Lobster", sans-serif;
+    color: aqua;
+}
+
+.texto4 {
+    font-family: "Lobster", sans-serif;
+    color: aqua;
+}
+
+.fonte5 {
+    font-family: "Playfair Display", serif;
+    color: chartreuse;
+}
+
+.texto5 {
+    font-family: "Playfair Display", serif;
+    color: chartreuse;
+}
+
+    
